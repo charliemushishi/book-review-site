@@ -1,0 +1,44 @@
+header {
+    border: 2px; ;
+    background-color:#B3C4C0 ;
+
+}
+footer {
+    border: 2px;
+    background-color:#B3C4C0 ;
+}
+
+main {
+    background-color:#868888 ;
+}
+
+text {
+    font-family:Helvetica, sans-serif ;
+}
+
+.title {
+    font:italic;
+    color: #A6B3B0;
+}
+
+h2 {
+    color: #2D3130;
+}
+
+p {
+    color:#161918 ;
+}
+ul {
+    list-style-type: none;
+}
+
+body {
+    background-image: url(/images/background.jpg);
+    background-size: 50%;
+    background-repeat:repeat;
+}
+
+main {
+    margin-left: 10%;
+    margin-right: 10%;
+}

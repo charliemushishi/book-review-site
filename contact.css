@@ -1,0 +1,16 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+figure {
+    background-color: black;
+    border-radius: 10px;
+}
+
+.description {
+    background-color:#B3C4C0 ;
+    line-height: 150%;
+}
